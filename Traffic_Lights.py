@@ -1,3 +1,4 @@
+import machine
 import utime
 
 led_red = machine.Pin(15, machine.Pin.OUT)
